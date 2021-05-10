@@ -67,7 +67,7 @@ header .container nav ul li:last-child
 header .container nav ul li a
 {
     text-decoration:none;
-    columns: #4B4957;
+    color: #4B4957;
     font-size:22px;
 
 }
