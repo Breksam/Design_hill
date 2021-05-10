@@ -1,0 +1,120 @@
+@media screen and (min-width:768px) and (max-width:1400)
+{
+
+/* contact page */
+
+    #contact-us .container
+{
+    flex-direction: column;
+}
+#contact-us .container .area-contact
+{
+    width:100%;
+}
+}
+
+@media screen and (max-width:768px)
+{
+    /* start header */
+
+    header .container
+{
+    
+    flex-direction: column;
+}
+
+/* start fold section */
+#fold
+{
+    height:350px;
+}
+#fold .container h1
+{
+    font-size:35px;
+}
+#fold .container p
+{
+    font-size:20px;
+}
+
+/* start about us section */
+
+#about-us .container
+{
+    flex-direction: column;   
+}
+#about-us .container .left
+{
+    text-align: center;
+}
+
+
+#about-us .container .right
+{
+    text-align: center;
+    padding: 15px 10px;
+}
+
+/* start our services section */
+#our-services .container
+{
+   flex-direction:column;
+}
+#our-services .container .area 
+{
+    width:100%;
+}
+
+/* start contact us */
+#contact-us .container form 
+{
+    width:100%;
+}
+
+
+/* about page */
+
+#fold-inner
+{
+    height:250px;
+}
+#serv
+{
+    height:200px;
+}
+#about-us-page .container
+{
+    text-align: center;
+}
+#about-us-page .container h2
+{
+    font-size:30px;
+    margin-bottom:5px;
+}
+#about-us-page .container p
+{
+    font-size:16px;
+}
+#strategy .container
+{
+   flex-direction: column;
+}
+#strategy .container .about-area
+{
+ width: 100%;
+}
+
+
+/* contact page */
+
+#contact-us .container
+{
+    flex-direction: column;
+}
+#contact-us .container .area-contact
+{
+    width:100%;
+}
+
+
+}
