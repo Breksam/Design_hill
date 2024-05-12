@@ -6,8 +6,6 @@ A Design_hill Responsive website To provide technology services.
 
 - HTML.
 - CSS.
-- JS.
-- Bootstrap.
 
 ### Installing
 
